@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "cat-picture": "^5.1.2",
-    "electron": "^8.2.5",
+    "electron": "^9.4.0",
     "lightning-image-poly": "0.0.10"
   }
 }
